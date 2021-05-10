@@ -105,7 +105,8 @@ License: ![License GPLv2][shield:license:original] ![][LOGO:gplv2]
 [shield:license:original]: https://img.shields.io/badge/License-WTFPL-red?backgroud=black?style=plastic "WTFPL"
 
 <!--- license logo urls -->
-[LOGO:gplv2]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2" [MOD:original:license:shield]:   https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2"   
+[LOGO:gplv2]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2"  
+[MOD:original:license:shield]:   https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2"   
 
 [MOD:ckan]:	  https://forum.kerbalspaceprogram.com/index.php?/topic/90246-* "CKAN"  
 [MOD:github]:	https://github.com/zer0Kerbal/Komplexity/releases/latest "GitHub"  
