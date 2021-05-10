@@ -1,8 +1,8 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": "1",
   "label": "Komplexity",
   "labelColor": "darkgreen",
   "message": "0.9.0.0",
   "color": "orange",
-  "style": "plastic"  
+  "style": "plastic"
 }
