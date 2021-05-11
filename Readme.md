@@ -170,7 +170,7 @@ License: ![License GPLv2][shield:license:original] ![][LOGO:gplv2]
 [LINK:zer0Kerbal]:	 https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zed'K"  
 [LINK:sarbian]: https://forum.kerbalspaceprogram.com/index.php?/profile/57146-sarbian/ "Sarbian"  
 
-[IMG:hero:0]: https://i.imgur.com/DVDdgU1.png
+[IMG:hero:0]: https://c10.patreonusercontent.com/3/e30%3D/patreon-media/p/post/51126122/ef70863c59004b6e9d89577b2fa19fde/1.png?token-time=1621987200&token-hash=TwWWdMqvqfRact15rMXebTkimr4ARGG2QxGvSmqGJlw%3D
 [IMG:hero:1]: https://i.imgur.com/y0vd6WS.png
 
 <!--
