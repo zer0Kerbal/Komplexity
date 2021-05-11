@@ -16,7 +16,7 @@ updated: 10 May 2021 -->
 ***
 ![Komplexity][IMG:hero:0]
 ### Preamble 
-> After playing KSP for a while, I wanted a tad more granularity to the building upgrades at the Kerbal Space Center. 4 levels (initial + three upgrades) just seemed to basic, and very unKerbalistic. So sat down with Bill and added some Komplexity and moar levels! yes, now there are a total of ten level (initial plus nine upgrades) for every building in the KSC (except currently the tracking station). This mod depends on ModuleManager and CustomBarnKit by [@Sarbian][LINK:sarbian].  
+> After playing KSP for a while, I wanted a tad more granularity to the building upgrades at the Kerbal Space Center. 4 levels (initial + three upgrades) just seemed too basic, and very unKerbalistic. So sat down with Bill and added some Komplexity and moar levels! yes, now there are a total of ten level (initial plus nine upgrades) for every building in the KSC (except currently the tracking station). This mod depends on ModuleManager and CustomBarnKit by [@Sarbian][LINK:sarbian].  
 
 ![](graphics/VABSPH.png)  
 ![](graphics/LaunchpadRunway.png)  
