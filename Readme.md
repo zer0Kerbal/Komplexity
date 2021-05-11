@@ -13,6 +13,7 @@ updated: 10 May 2021 -->
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License GPLv2][shield:license] ![][LOGO:gplv2]   
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
 ![Code][shield:code] ![Validate AVC .version files][shield:avcvalid]  
+[![Validate AVC .version files](https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=main)](https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml)  
 ***
 ![Komplexity][IMG:hero:0]
 ### Preamble 
@@ -134,7 +135,7 @@ License: ![License GPLv2][shield:license:original] ![][LOGO:gplv2]
 [shield:ckan]:	   https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
 [shield:github]:	 https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github
 [shield:curseforge]: https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
-[shield:avcvalid]:	https://github.com/zer0Kerbal/Komplexity/workflows/Validate%20AVC%20.version%20files/badge.svg  
+[shield:avcvalid]:	https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=main 
 
 <!-- zer0Kerbal mods -->
 [thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"  
