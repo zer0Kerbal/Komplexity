@@ -102,7 +102,7 @@ License: ![License GPLv2][shield:license:original] ![][LOGO:gplv2]
 [MOD:original:source]:	 https://github.com/dboi88/CSI-Cargo-Freighter
 [MOD:original:thread]:	 https://forum.kerbalspaceprogram.com/index.php?/topic/159615-*
 [MOD:original:download]:   https://spacedock.info/mod/1332/
-[shield:license:original]: https://img.shields.io/badge/License-WTFPL-red?backgroud=black?style=plastic "WTFPL"
+[shield:license:original]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/json/license.json "GPLv2"
 
 <!--- license logo urls -->
 [LOGO:gplv2]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2"  
