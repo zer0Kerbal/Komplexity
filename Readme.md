@@ -16,7 +16,7 @@ updated: 10 May 2021 -->
 ***
 ![Komplexity][IMG:hero:0]
 ### Preamble 
-> After playing KSP for a while, I wanted a tad more granularity to the building upgrades at the Kerbal Space Center. 4 levels (initial + three upgrades) just seemed to basic, and very unKerbalistic. So sat down with Bill and added some Komplexity and moar levels! yes, now there are a total of ten level (initial plus nine upgrades) for every building in the KSC (except currently the tracking station). This mod depends on ModuleManager and CustomBarnKit by [@Sarbian][LINK:sarbian].  
+> After playing KSP for a while, I wanted a tad more granularity to the building upgrades at the Kerbal Space Center. 4 levels (initial + three upgrades) just seemed too basic, and very unKerbalistic. So sat down with Bill and added some Komplexity and moar levels! yes, now there are a total of ten level (initial plus nine upgrades) for every building in the KSC (except currently the tracking station). This mod depends on ModuleManager and CustomBarnKit by [@Sarbian][LINK:sarbian].  
 
 ![](graphics/VABSPH.png)  
 ![](graphics/LaunchpadRunway.png)  
@@ -102,7 +102,7 @@ License: ![License GPLv2][shield:license:original] ![][LOGO:gplv2]
 [MOD:original:source]:	 https://github.com/dboi88/CSI-Cargo-Freighter
 [MOD:original:thread]:	 https://forum.kerbalspaceprogram.com/index.php?/topic/159615-*
 [MOD:original:download]:   https://spacedock.info/mod/1332/
-[shield:license:original]: https://img.shields.io/badge/License-WTFPL-red?backgroud=black?style=plastic "WTFPL"
+[shield:license:original]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/json/license.json "GPLv2"
 
 <!--- license logo urls -->
 [LOGO:gplv2]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2"  
@@ -134,7 +134,7 @@ License: ![License GPLv2][shield:license:original] ![][LOGO:gplv2]
 [shield:ckan]:	   https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
 [shield:github]:	 https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github
 [shield:curseforge]: https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
-[shield:avcvalid]:	https://github.com/zer0Kerbal/Komplexity/workflows/Validate%20AVC%20.version%20files/badge.svg
+[shield:avcvalid]:	https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=main (https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml)  
 
 <!-- zer0Kerbal mods -->
 [thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"  
@@ -170,7 +170,7 @@ License: ![License GPLv2][shield:license:original] ![][LOGO:gplv2]
 [LINK:zer0Kerbal]:	 https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zed'K"  
 [LINK:sarbian]: https://forum.kerbalspaceprogram.com/index.php?/profile/57146-sarbian/ "Sarbian"  
 
-[IMG:hero:0]: https://i.imgur.com/DVDdgU1.png
+[IMG:hero:0]: https://c10.patreonusercontent.com/3/e30%3D/patreon-media/p/post/51126122/ef70863c59004b6e9d89577b2fa19fde/1.png?token-time=1621987200&token-hash=TwWWdMqvqfRact15rMXebTkimr4ARGG2QxGvSmqGJlw%3D
 [IMG:hero:1]: https://i.imgur.com/y0vd6WS.png
 
 <!--
