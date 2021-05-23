@@ -1,13 +1,14 @@
-<!-- Readme.md v1.1.4.0
+<!-- Readme.md v1.1.6.0
 Komplexity ()
 created: 01 Oct 18
-updated: 10 May 2021 -->
+updated: 22 May 2021 -->
 
 ## Download on [SpaceDock][MOD:spacedock] or [Github][MOD:github] or [Curseforge][MOD:curseforge]. Also available on [CKAN][MOD:ckan].  
 
-# Komplexity for Custom Barn Kit ()
+# Komplexity (KMPX)  
+### for Custom Barn Kit  
 #### by zer0Kerbal
-## KSC building levels spread out to 10 levels instead of 4
+## KSC building levels increased to ten levels instead of the stock four
 ## by [@zer0Kerbal][LINK:zer0kerbal]  
 ![Mod Version][shield:mod:latest] 
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License GPLv2][shield:license] ![][LOGO:gplv2]   
@@ -16,11 +17,11 @@ updated: 10 May 2021 -->
 ***
 ![Komplexity][IMG:hero:0]
 ### Preamble 
-> After playing KSP for a while, I wanted a tad more granularity to the building upgrades at the Kerbal Space Center. 4 levels (initial + three upgrades) just seemed too basic, and very unKerbalistic. So sat down with Bill and added some Komplexity and moar levels! yes, now there are a total of ten level (initial plus nine upgrades) for every building in the KSC (except currently the tracking station). This mod depends on ModuleManager and CustomBarnKit by [@Sarbian][LINK:sarbian].  
-
+> After playing KSP for a while, I wanted a tad more granularity to the building upgrades at the Kerbal Space Center. Stock's four levels (initial + three upgrades) just seemed too basic, and very unKerbalistic. So sat down with Bill and added some Komplexity and moar levels! yes, now there are a total of ten level (initial plus nine upgrades) for every building in the KSC ~~(except currently the tracking station)~~. This mod depends on ModuleManager and CustomBarnKit by [@Sarbian][LINK:sarbian].  
+[![Watch the video](https://img.youtube.com/vi/erhEQpBZGas/default.jpg)](https://youtu.be/erhEQpBZGas)  
 ![](graphics/VABSPH.png)  
 ![](graphics/LaunchpadRunway.png)  
-![](graphics/Astronauts.png)  
+![](graphics/Astronaut.png)  
 ![](graphics/Mission.png)  
 Soil Samples available at level 4 R&D  
 ![](graphics/Research.png)  
@@ -40,6 +41,7 @@ Soil Samples available at level 4 R&D
 ### Recommends  
 - [x]  [Kerbal Changelog][thread:kcl]  
 - [x]  [Strategia][thread:stra]  
+- [x]  [Patch Manager][thread:pmx]    
 ### Suggests
 - [x]  [On Demand Fuel Cells {ODFC)}][thread:ODFC]  
 - [x]  [Field Training Facility (FTF)][thread:FTF]  
@@ -60,7 +62,8 @@ Soil Samples available at level 4 R&D
 - [x]  [MoarKerbals][thread:MK]  
 - [x]  [KaboOom!][thread:BOOM]    
 ### Supports
-- [x]  [Kerbal Changelog][thread:kcl]
+- [x]  [Kerbal Changelog][thread:kcl]  
+- [x]  [Patch Manager][thread:pmx]    
 ### Conflicts
 - [x]  [SETI-CustomBarnKit][thread:cbkseti]  
 - [x]  [Custom Barn Kit - RO build][thread:cbkro]  
@@ -164,6 +167,7 @@ License: ![License GPLv2][shield:license:original] ![][LOGO:gplv2]
 [thread:cbkro]: https://forum.kerbalspaceprogram.com/index.php?/topic/109027-* "Custom Barn Kit - RO build"  
 [thread:CBK]: https://forum.kerbalspaceprogram.com/index.php?/topic/109027-* "Custom Barn Kit"  
 [thread:Stra]: http://forum.kerbalspaceprogram.com/index.php?/topic/131808-* "Strategia"  
+[thread:pmx]: https://forum.kerbalspaceprogram.com/index.php?/topic/163072-* "Patch Manager"  
 
 [thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "Link to how to get support"  
 

@@ -1,11 +1,11 @@
 {
-	"NAME"		   : "Komplexity ()",
-	"URL"			: "https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/Komplexity.version",
-	"DOWNLOAD"	   : "https://github.com/zer0Kerbal/Komplexity/releases/latest",
+	"NAME"		     : "Komplexity ()",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/Komplexity.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/Komplexity/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/Changelog.cfg",
 	"GITHUB" :
 	{
-		"USERNAME"		  : "zer0Kerbal",
+		"USERNAME"		    : "zer0Kerbal",
 		"REPOSITORY"		: "Komplexity",
 		"ALLOW_PRE_RELEASE" : false
 	},
@@ -13,7 +13,7 @@
 	{
 		"MAJOR" : 0,
 		"MINOR" : 9,
-		"PATCH" : 0,
+		"PATCH" : 1,
 		"BUILD" : 0
 	},
 	"KSP_VERSION" :
@@ -36,7 +36,7 @@
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME" :		  "Komplexity",
-		"DIRECTORY" :	 "KGEx/Komplexity"
+		"NAME"      : "Komplexity",
+		"DIRECTORY" : "KGEx/Komplexity"
 	}
 }
