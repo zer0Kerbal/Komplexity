@@ -7,16 +7,15 @@ updated: 28 May 2021 -->
 
 # Komplexity (KMPX)  
 ### for Custom Barn Kit  
-#### by zer0Kerbal
-## KSC building levels increased to ten levels instead of the stock four
 ## by [@zer0Kerbal][LINK:zer0kerbal]  
+## KSC building levels increased to ten levels instead of the stock four
 ![Mod Version][shield:mod:latest] 
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License GPLv2][shield:license] ![][LOGO:gplv2]   
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
 ![Code][shield:code] ![Validate AVC .version files][shield:avcvalid]  
 ***
-![Komplexity][IMG:hero:0]
-### Preamble 
+![Komplexity][IMG:hero:0]  
+### Preamble  
 > After playing KSP for a while, I wanted a tad more granularity to the building upgrades at the Kerbal Space Center. Stock's four levels (initial + three upgrades) just seemed too basic, and very unKerbalistic. So sat down with Bill and added some Komplexity and moar levels! yes, now there are a total of ten level (initial plus nine upgrades) for every building in the KSC ~~(except currently the tracking station)~~. This mod depends on ModuleManager and CustomBarnKit by [@Sarbian][LINK:sarbian].  
 [![Watch the video](https://img.youtube.com/vi/erhEQpBZGas/default.jpg)](https://youtu.be/erhEQpBZGas)  
 ![](graphics/VABSPH.png)  
