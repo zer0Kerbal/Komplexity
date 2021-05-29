@@ -1,7 +1,7 @@
 {
 	"NAME"		     : "Komplexity ()",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/Komplexity.version",
-	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/Komplexity/releases/latest",
+	"DOWNLOAD"	     : "https://www.curseforge.com/kerbal/ksp-mods/komplexity/download",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/Changelog.cfg",
 	"GITHUB" :
 	{
@@ -13,7 +13,7 @@
 	{
 		"MAJOR" : 0,
 		"MINOR" : 9,
-		"PATCH" : 1,
+		"PATCH" : 2,
 		"BUILD" : 0
 	},
 	"KSP_VERSION" :
