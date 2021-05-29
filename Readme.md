@@ -1,22 +1,21 @@
-<!-- Readme.md v1.1.6.0
+<!-- Readme.md v1.1.6.1
 Komplexity ()
 created: 01 Oct 18
-updated: 22 May 2021 -->
+updated: 28 May 2021 -->
 
 ## Download on [SpaceDock][MOD:spacedock] or [Github][MOD:github] or [Curseforge][MOD:curseforge]. Also available on [CKAN][MOD:ckan].  
 
 # Komplexity (KMPX)  
 ### for Custom Barn Kit  
-#### by zer0Kerbal
-## KSC building levels increased to ten levels instead of the stock four
 ## by [@zer0Kerbal][LINK:zer0kerbal]  
+## KSC building levels increased to ten levels instead of the stock four
 ![Mod Version][shield:mod:latest] 
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License GPLv2][shield:license] ![][LOGO:gplv2]   
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
 ![Code][shield:code] ![Validate AVC .version files][shield:avcvalid]  
 ***
-![Komplexity][IMG:hero:0]
-### Preamble 
+![Komplexity][IMG:hero:0]  
+### Preamble  
 > After playing KSP for a while, I wanted a tad more granularity to the building upgrades at the Kerbal Space Center. Stock's four levels (initial + three upgrades) just seemed too basic, and very unKerbalistic. So sat down with Bill and added some Komplexity and moar levels! yes, now there are a total of ten level (initial plus nine upgrades) for every building in the KSC ~~(except currently the tracking station)~~. This mod depends on ModuleManager and CustomBarnKit by [@Sarbian][LINK:sarbian].  
 [![Watch the video](https://img.youtube.com/vi/erhEQpBZGas/default.jpg)](https://youtu.be/erhEQpBZGas)  
 ![](graphics/VABSPH.png)  
@@ -40,8 +39,7 @@ Soil Samples available at level 4 R&D
  - [x]  [Custom Barn Kit][thread:CBK]  
 ### Recommends  
 - [x]  [Kerbal Changelog][thread:kcl]  
-- [x]  [Strategia][thread:stra]  
-- [x]  [Patch Manager][thread:pmx]    
+- [x]  [Strategia][thread:stra]     
 ### Suggests
 - [x]  [On Demand Fuel Cells {ODFC)}][thread:ODFC]  
 - [x]  [Field Training Facility (FTF)][thread:FTF]  
@@ -62,8 +60,7 @@ Soil Samples available at level 4 R&D
 - [x]  [MoarKerbals][thread:MK]  
 - [x]  [KaboOom!][thread:BOOM]    
 ### Supports
-- [x]  [Kerbal Changelog][thread:kcl]  
-- [x]  [Patch Manager][thread:pmx]    
+- [x]  [Kerbal Changelog][thread:kcl]      
 ### Conflicts
 - [x]  [SETI-CustomBarnKit][thread:cbkseti]  
 - [x]  [Custom Barn Kit - RO build][thread:cbkro]  
@@ -96,14 +93,14 @@ License: ![License GPLv2][shield:license:original] ![][LOGO:gplv2]
 [MOD:wiki]:		 https://github.com/zer0Kerbal/Komplexity/
 [MOD:issues]:	   https://github.com/zer0Kerbal/Komplexity/issues
 [MOD:known]:		https://github.com/zer0Kerbal/Komplexity/wiki/Known-Issues
-[MOD:forum]:		https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
+[MOD:forum]:		https://forum.kerbalspaceprogram.com/index.php?/topic/202749-*
 [MOD:github:repo]:  https://github.com/zer0Kerbal/Komplexity/
 [MOD:changelog]:	https://github.com/zer0Kerbal/Komplexity/Changelog.cfg
 [KSP:website]:	  https://kerbalspaceprogram.com/ "Kerbal Space Program"  
 
 <!--- original mod stuff -->
 [MOD:original:source]:	 https://github.com/dboi88/CSI-Cargo-Freighter
-[MOD:original:thread]:	 https://forum.kerbalspaceprogram.com/index.php?/topic/159615-*
+[MOD:original:thread]:	 https://forum.kerbalspaceprogram.com/index.php?/topic/202749-*
 [MOD:original:download]:   https://spacedock.info/mod/1332/
 [shield:license:original]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/json/license.json "GPLv2"
 
@@ -174,7 +171,7 @@ License: ![License GPLv2][shield:license:original] ![][LOGO:gplv2]
 [LINK:zer0Kerbal]:	 https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zed'K"  
 [LINK:sarbian]: https://forum.kerbalspaceprogram.com/index.php?/profile/57146-sarbian/ "Sarbian"  
 
-[IMG:hero:0]: https://c10.patreonusercontent.com/3/e30%3D/patreon-media/p/post/51126122/ef70863c59004b6e9d89577b2fa19fde/1.png?token-time=1621987200&token-hash=TwWWdMqvqfRact15rMXebTkimr4ARGG2QxGvSmqGJlw%3D
+[IMG:hero:0]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Logo400x400xcf.png
 [IMG:hero:1]: https://i.imgur.com/y0vd6WS.png
 
 <!--
