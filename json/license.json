@@ -3,6 +3,6 @@
   "label": "License",
   "labelColor": "black",
   "message": "GPLv2",
-  "color": "red",
+  "color": "darkred",
   "style": "plastic"
 }

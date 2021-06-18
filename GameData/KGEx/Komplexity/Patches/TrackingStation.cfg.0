@@ -1,19 +1,17 @@
-// TrackingStation.cfg.0 v1.0.4.0
+// TrackingStation.cfg.0 v1.0.5.0
 // Komplexity
 // a addon that used CustomBarnKit to extend the Kerbin Space Center's facilities from four levels (start + three) to ten levels (start + nine)
 // created: 05 Nov 2019 
-// updated: 28 May 2021
+// updated: 15 Jun 2021
 
 @CUSTOMBARNKIT:NEEDS[CustomBarnKit]:AFTER[CustomBarnKit]
 {
 	@TRACKING
 	{
-		// @levels = 3
 		@levels = 10
-		// @upgradesVisual = 1, 2, 3
 		@upgradesVisual = 1, 1, 1, 2, 2, 2, 3, 3, 3, 3
-		// @upgrades = 38000, 150000, 563000
-		@upgrades = 10000, 15000, 20000, 45000, 75000, 110000, 175000, 250000, 400000, 1000000
+		// @upgrades = 10000, 15000, 20000, 45000, 75000, 110000, 175000, 250000, 400000, 1000000
+		@upgrades = 38000, 15000, 20000, 30000, 50000, 75000, 100000, 125000, 200000, 300000
 
 		
 		@unlockedSpaceObjectDiscovery = 3
@@ -23,7 +21,7 @@
 		// @patchesAheadLimit = 0, 2, 4
 		@patchesAheadLimit = 0, 0, 1, 1, 2, 2, 2, 3, 3, 4
 		// @trackedObjectLimit = 0, 8, -1
-		@trackedObjectLimit = 0, 1, 2, 3, 4, 5, 6, 7, 8, -1
+		@trackedObjectLimit = 0, 0, 1, 2, 4, 8, 12, 16, 32, -1
 		// @DSNRange = 2000000000, 50000000000, 250000000000
 		@DSNRange = 500000000, 1000000000, 2000000000, 5000000000, 25000000000, 50000000000, 100000000000, 165000000000, 250000000000, 500000000000
 
