@@ -1,11 +1,11 @@
 <!-- Readme.md v1.1.6.1
-Komplexity ()
+Komplexity (KPLX)
 created: 01 Oct 18
 updated: 28 May 2021 -->
 
 ## Download on [SpaceDock][MOD:spacedock] or [Github][MOD:github] or [Curseforge][MOD:curseforge]. Also available on [CKAN][MOD:ckan].  
 
-# Komplexity (KMPX)  
+# Komplexity (KPLX)  
 ### for Custom Barn Kit  
 ## by [@zer0Kerbal][LINK:zer0kerbal]  
 ## KSC building levels increased to ten levels instead of the stock four
@@ -18,13 +18,27 @@ updated: 28 May 2021 -->
 ### Preamble  
 > After playing KSP for a while, I wanted a tad more granularity to the building upgrades at the Kerbal Space Center. Stock's four levels (initial + three upgrades) just seemed too basic, and very unKerbalistic. So sat down with Bill and added some Komplexity and moar levels! yes, now there are a total of ten level (initial plus nine upgrades) for every building in the KSC ~~(except currently the tracking station)~~. This mod depends on ModuleManager and CustomBarnKit by [@Sarbian][LINK:sarbian].  
 [![Watch the video](https://img.youtube.com/vi/erhEQpBZGas/default.jpg)](https://youtu.be/erhEQpBZGas)  
-![](graphics/VABSPH.png)  
-![](graphics/LaunchpadRunway.png)  
-![](graphics/Astronaut.png)  
-![](graphics/Mission.png)  
+
+![VAB][img:vab]  
+![SPH][img:sph]  
+![Launch Pad][img:pad]  
+![Runway][img:run]  
+![Astronaut Complex][img:ast]  
+![Mission Control][img:mis]  
+![Research and Development][img:r&d]     
 Soil Samples available at level 4 R&D  
-![](graphics/Research.png)  
-![](graphics/Administration.png)  
+![Administration][img:adm]  
+![Tracking Station][img:trk]     
+   
+[img:trk]g:vab]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/VAB.png "VAB"
+[img:sph]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/SPH.png "SPH"
+[img:pad]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/LaunchPad.png "Launch Pad"
+[img:run]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Runway.png "Runway"
+[img:ast]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Astronaut.png "Astronaut Complex"
+[img:mis]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Mission.png "Mission Control"
+[img:r&d]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Research.png "Research and Development"  
+[img:adm]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Administration.png "Administration Building"
+[img:trk]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Tracking.png "Tracking Station"
 
 ### Installation Directions:
 - Use CKAN  
@@ -39,7 +53,10 @@ Soil Samples available at level 4 R&D
  - [x]  [Custom Barn Kit][thread:CBK]  
 ### Recommends  
 - [x]  [Kerbal Changelog][thread:kcl]  
-- [x]  [Strategia][thread:stra]     
+### Caveat Emptor:
+#### Might conflict or have unintended consequences to combining 
+- [x]  Bureaucracy[thread:bureau]  
+- [x]  [Strategia][thread:stra]   
 ### Suggests
 - [x]  [On Demand Fuel Cells {ODFC)}][thread:ODFC]  
 - [x]  [Field Training Facility (FTF)][thread:FTF]  
@@ -165,6 +182,7 @@ License: ![License GPLv2][shield:license:original] ![][LOGO:gplv2]
 [thread:CBK]: https://forum.kerbalspaceprogram.com/index.php?/topic/109027-* "Custom Barn Kit"  
 [thread:Stra]: http://forum.kerbalspaceprogram.com/index.php?/topic/131808-* "Strategia"  
 [thread:pmx]: https://forum.kerbalspaceprogram.com/index.php?/topic/163072-* "Patch Manager"  
+[thread:bureau] https://forum.kerbalspaceprogram.com/index.php?/topic/191192-* "Bureaucracy"  
 
 [thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "Link to how to get support"  
 
