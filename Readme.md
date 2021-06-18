@@ -37,7 +37,7 @@ Soil Samples available at level 4 R&D
 ![Administration][img:adm]  
 ![Tracking Station][img:trk]  
   
-[img:trk]g:vab]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/VAB.png "VAB"
+[img:vab]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/VAB.png "VAB"
 [img:sph]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/SPH.png "SPH"
 [img:pad]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/LaunchPad.png "Launch Pad"
 [img:run]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Runway.png "Runway"
