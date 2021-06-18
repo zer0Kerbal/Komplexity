@@ -191,7 +191,7 @@ License: ![License GPLv2][shield:license:original] ![][LOGO:gplv2]
 [shield:spacedock]:  https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
 [shield:ckan]:	   https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
 [shield:github]:	 https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github
-[shield:curseforge]: https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
+[shield:curseforge]: https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic&logo=curseforge  
 [shield:avcvalid]:	https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=main "https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml"
 
 <!-- zer0Kerbal mods -->
