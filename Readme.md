@@ -224,7 +224,7 @@ License: ![License GPLv2][shield:license:original] ![][LOGO:gplv2]
 [thread:CBK]: https://forum.kerbalspaceprogram.com/index.php?/topic/109027-* "Custom Barn Kit"  
 [thread:Stra]: http://forum.kerbalspaceprogram.com/index.php?/topic/131808-* "Strategia"  
 [thread:pmx]: https://forum.kerbalspaceprogram.com/index.php?/topic/163072-* "Patch Manager"  
-[thread:bczy] https://forum.kerbalspaceprogram.com/index.php?/topic/191192-* "Bureaucracy"  
+[thread:bczy]: https://forum.kerbalspaceprogram.com/index.php?/topic/191192-* "Bureaucracy"  
 
 [thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "Link to how to get support"  
 
