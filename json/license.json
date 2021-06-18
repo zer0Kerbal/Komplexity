@@ -4,5 +4,6 @@
   "labelColor": "black",
   "message": "GPLv2",
   "color": "darkred",
-  "style": "plastic"
+  "style": "plastic",
+  "logo": "https://spacedock.info/static/fav.svg"
 }
