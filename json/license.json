@@ -4,5 +4,7 @@
   "labelColor": "black",
   "message": "GPLv2",
   "color": "darkred",
-  "style": "plastic"
+  "style": "plastic",
+  "namedLogo": "CC",
+  "logoColor" "white"
 }
