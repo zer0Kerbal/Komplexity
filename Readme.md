@@ -37,15 +37,15 @@ Soil Samples available at level 4 R&D
 ![Administration][img:adm]  
 ![Tracking Station][img:trk]  
 
-[img:vab]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/VAB.png "VAB"
-[img:sph]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/SPH.png "SPH"
-[img:pad]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/LaunchPad.png "Launch Pad"
-[img:run]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Runway.png "Runway"
-[img:ast]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Astronaut.png "Astronaut Complex"
-[img:mis]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Mission.png "Mission Control"
-[img:r&d]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Research.png "Research and Development"
-[img:adm]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Administration.png "Administration Building"
-[img:trk]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Tracking.png "Tracking Station"
+[img:vab]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/img/VAB.png "VAB"
+[img:sph]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/img/SPH.png "SPH"
+[img:pad]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/img/LaunchPad.png "Launch Pad"
+[img:run]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/img/Runway.png "Runway"
+[img:ast]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/img/Astronauts.png "Astronaut Complex"
+[img:mis]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/img/MissionControl.png "Mission Control"
+[img:r&d]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/img/Research.png "Research and Development"
+[img:adm]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/img/Administration.png "Administration Building"
+[img:trk]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/img/TrackingStation.png "Tracking Station"
 
 > #### Notes:  
 >
