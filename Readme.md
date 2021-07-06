@@ -27,15 +27,24 @@ updated: 17 Jun 2021 -->
 [![Watch the video](https://img.youtube.com/vi/erhEQpBZGas/default.jpg)](https://youtu.be/erhEQpBZGas)  
 
 ![VAB][img:vab]  
-![SPH][img:sph]  
-![Launch Pad][img:pad]  
-![Runway][img:run]  
-![Astronaut Complex][img:ast]  
-![Mission Control][img:mis]  
+*** 
+![SPH][img:sph]
+***  
+![Launch Pad][img:pad]
+***  
+![Runway][img:run]
+***  
+![Astronaut Complex][img:ast]
+***  
+![Mission Control][img:mis]
+***  
 ![Research and Development][img:r&d]  
-Soil Samples available at level 4 R&D  
-![Administration][img:adm]  
-![Tracking Station][img:trk]  
+Soil Samples available at level 4 R&D
+***  
+![Administration][img:adm]
+***  
+![Tracking Station][img:trk]
+***  
 
 [img:vab]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/img/VAB.png "VAB"
 [img:sph]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/img/SPH.png "SPH"
