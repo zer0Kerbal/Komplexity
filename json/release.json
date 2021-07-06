@@ -1,10 +1,63 @@
 {
-	"MODNAME": "auto",
-	"MODFOLDER": "auto",
+	"SCHEMA": "1.0.0.0",
+	"MODNAME": "Komplexity",
+	"ABBV": "KPLX",
+	"AUTHOR": "zer0Kerbal",
+	"MODFOLDER": "Komplexity",
+	"SUBFOLDER": "KGEx",
 	"VERSIONFILE": "auto",
+	"MODTYPE": "Patchess",
 	"RELEASESDIR": "Releases",
 	"CHANGELOG": "Changelog.md",
-	"DRAFT": false,
-	"PRERELEASE": true,
-	"SPACEDOCK_ID": "2379"
+	"CKAN": {
+		"IDENTIFIER": "Komplexity",
+		"DRAFT": false,
+		"PRERELEASE": false
+	},
+	"URL": {
+		"SPACEDOCK_ID": "2805",
+		"CURSEFORGE": "Komplexity",
+		"GITHUB": "zer0Kerbal/Komplexity",
+		"FORUM": "202749"
+	},
+	"ORIGURL": {
+		"SPACEDOCK_ID": "2805",
+		"CURSEFORGE": "Komplexity",
+		"GITHUB": "zer0Kerbal/Komplexity",
+		"FORUM": "202749",
+		"LICENSE": "GPLv2"
+	},
+	"KSPVERSION": "1.12.1",
+	"LICENSE": "GPLv2",
+	"CODE": {
+		"DNET": "Module Manager",
+		"UNIT": "",
+		"LANG": ""
+	},
+	"DEPENDS": [
+		{ "MODNAME": "Module Manager", "MODURL": "forum.kerbalspaceprogram.com/index.php?/topic/50533-*", "CKANID": "ModuleManager" },
+		{ "MODNAME": "Custom Barn Kit", "MODURL": "forum.kerbalspaceprogram.com/index.php?/topic/109027-*", "CKANID": "CustomBarnKit" }
+	],
+	"RECOMMENDS": [
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" },
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" },
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" }
+	],
+	"SUPPORTS": [
+		{ "MODNAME": "Kerbal Changelog", "MODURL": "forum.kerbalspaceprogram.com/index.php?/topic/179207-*", "CKANID": "KerbalChangelog" }
+	],
+	"SUGGESTS": [
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" },
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" },
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" }
+	],
+	"CONFLICTS": [
+		{ "MODNAME": "Bureaucracy", "MODURL": "forum.kerbalspaceprogram.com/index.php?/topic/191192-*", "CKANID": "Bureaucracy" },
+		{ "MODNAME": "Strategia", "MODURL": "forum.kerbalspaceprogram.com/index.php?/topic/131808-*", "CKANID": "Strategia" },
+		{ "MODNAME": "SETI CBK", "MODURL": "forum.kerbalspaceprogram.com/index.php?/topic/95645-* ", "CKANID": "SETI-CBK" },
+		{ "MODNAME": "Custom Barn Kit - RO build", "MODURL": "forum.kerbalspaceprogram.com/index.php?/topic/109027-*", "CKANID": "CBK-RO" }
+	],
+	"REPLACES": [
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" }
+	]
 }
