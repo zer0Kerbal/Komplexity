@@ -123,6 +123,8 @@ Soil Samples available at level 4 R&D
 - [x] [SETI-CustomBarnKit][thread:cbkseti]  
 - [x] [Custom Barn Kit - RO build][thread:cbkro]   
 
+#### tags
+* [x]  plugin, config, custombarnkit  
 ***
 
 *red box below is a link to forum post on how to get support*  
