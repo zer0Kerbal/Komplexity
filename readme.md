@@ -199,6 +199,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [IMG:hero:0]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/main/graphics/Logo400x400xcf.png
 [IMG:hero:1]: https://i.imgur.com/y0vd6WS.png
 
-<!--
-this file: GPLv2 BY
-zer0Kerbal-->
+<!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
+
+<!-- footnotes -->
+[^1]: ***may*** work on other versions (YMMV)
+[^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
+[^3]: this isn't a mod. ;P
