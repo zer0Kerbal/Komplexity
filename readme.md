@@ -83,7 +83,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] *may* work on other versions ]/YMMV/  
+* [Kerbal Space Program][KSP:url] [![][shield:ksp]][KSP:url] *may* work on other versions ]/YMMV/  
 * [Module Manager][thread:mm]  [](^1) 
 * [Custom Barn Kit][thread:CBK]  
 
