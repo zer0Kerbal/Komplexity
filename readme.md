@@ -1,9 +1,9 @@
-<!-- Readme.md v1.6.5.1
+<!-- readme.md v1.6.5.1
 Komplexity (KPLX)
 created: 01 Oct 18
 updated: 17 Jan 2022 -->
 
-## Download on  [Curseforge][MOD:curseforge] or [Github][MOD:github] or [SpaceDock][MOD:spacedock]
+## Download on [Curseforge][CURSFG:url], [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]
 
 
 
