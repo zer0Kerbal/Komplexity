@@ -122,6 +122,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 > Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License GPLv2][LIC:shd]][LIC:url]
+> 
 > ***Bundled addons/mods are distributed under their own licenses*** (if any)  
 > ***Art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
