@@ -29,7 +29,7 @@ Kerbal Space Center building levels increased to a maximum of ten levels instead
 >
 > The stock game's four levels (initial + three upgrades) just seemed too basic, and very unKerbalistic. So I sat down with Bill and added some Komplexity and moar levels!
 >
-> ***Yes***, now there are a total of ten level (initial plus nine upgrades) for every building in the KSC. This mod depends on [Module Manager][thread:mm] and [Custom Barn Kit][thread:CBK] by [@Sarbian][LINK:sarbian]. Might not play nice with [Bureaucracy][thread:bczy].
+> ***Yes***, now there are a total of ten levels (initial plus nine upgrades) for every building in the KSC. This mod depends on [Module Manager][thread:mm] and [Custom Barn Kit][thread:CBK] by [@Sarbian][LINK:sarbian]. Might not play nice with [Bureaucracy][thread:bczy].
 
 ### Promo Video
 
@@ -83,7 +83,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] *may* work on other versions ]/YMMV/  
+* [Kerbal Space Program][KSP:url] [![][KSP:shd]][KSP:url] *may* work on other versions /YMMV/  
 * [Module Manager][thread:mm]  [](^1) 
 * [Custom Barn Kit][thread:CBK]  
 
