@@ -90,9 +90,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Supports  
 
 * [Strategia][thread:stra]  
-* [JNSQ][thread:JNSQ]
+* [JNSQ][thread:JNSQ]  
 
-[thread:JNSQ] https://forum.kerbalspaceprogram.com/index.php?/topic/184880-* "JNSQ"
+  
 
 ### Conflicts
 
@@ -195,6 +195,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [thread:Stra]: https://forum.kerbalspaceprogram.com/index.php?/topic/131808-* "Strategia"
 [thread:pmx]: https://forum.kerbalspaceprogram.com/index.php?/topic/163072-* "Patch Manager"
 [thread:bczy]: https://forum.kerbalspaceprogram.com/index.php?/topic/191192-* "Bureaucracy"
+[thread:JNSQ]: https://forum.kerbalspaceprogram.com/index.php?/topic/184880-* "JNSQ"
 
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zed'K"
 [LINK:sarbian]: https://forum.kerbalspaceprogram.com/index.php?/profile/57146-sarbian/ "Sarbian"
