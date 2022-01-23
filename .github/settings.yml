@@ -34,7 +34,6 @@ repository:
   # Updates the default branch for this repository.
   default_branch: master
 
-
 # Labels: define labels for Issues and Pull Requests
 labels:
   - name: Version 0.9.9.9-prerelease
@@ -52,7 +51,7 @@ labels:
     color: 336699
     description: full release.
 
-- name: adoption
+  - name: adoption
     # If including a `#`, make sure to wrap it with quotes!
     color: BADA55
     description: relating to adoption
@@ -234,7 +233,7 @@ milestones:
     # The state of the milestone. Either `open` or `closed`
     state: open
 
-- title: localization - master
+  - title: localization - master
     description: progress toward total localization
     state: open
     
@@ -297,4 +296,3 @@ milestones:
   - title: localization - Simplified Chinese (简体中文) <zh-cn.cfg>
     description: progress toward Simplified Chinese (简体中文) <zh-cn.cfg> localization
     state: open
-
