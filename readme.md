@@ -90,6 +90,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Supports  
 
 * [Strategia][thread:stra]  
+* [JNSQ][thread:JNSQ]
+
+[thread:JNSQ] https://forum.kerbalspaceprogram.com/index.php?/topic/184880-* "JNSQ"
 
 ### Conflicts
 
