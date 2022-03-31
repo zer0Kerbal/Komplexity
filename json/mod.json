@@ -1,8 +1,8 @@
 {
-  "schemaVersion": "1",
-  "label": "Komplexity",
-  "labelColor": "darkgreen",
-  "message": "0.9.3.0",
-  "color": "orange",
-  "style": "plastic"
+ "schemaVersion": 1,
+ "label": "Komplexity",
+ "labelColor": "BADA55",
+ "message": "0.9.9.9",
+ "color": "darkgreen",
+ "style": "plastic"
 }
