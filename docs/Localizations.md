@@ -18,7 +18,7 @@ updated: 30 Mar 2022 -->
 
 [Home](./index.md)
 
-has been translated into the following languages:
+Doesn't need any additional translations since there is nothing to be translated in this addon.
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
