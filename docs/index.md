@@ -5,6 +5,7 @@
 
 ## Documents
 - [Administration](Administration.md)
+- [CC-BY-SA-4.0](CC-BY-SA-4.0.md)
 - [Mission](Mission.md)
 - [Research](Research.md)
 - [SPH](SPH.md)
