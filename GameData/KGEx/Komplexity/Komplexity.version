@@ -1,0 +1,36 @@
+{
+	"NAME"		     : "Komplexity (KPLX)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/Komplexity.version",
+	"DOWNLOAD"	     : "https://www.curseforge.com/kerbal/ksp-mods/komplexity/download",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"		    : "zer0Kerbal",
+		"REPOSITORY"		: "Komplexity",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 0,
+		"PATCH" : 0,
+		"BUILD" : 0
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 12,
+		"PATCH" : 3
+	},
+	"KSP_VERSION_MIN" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 0,
+		"PATCH" : 0
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME"      : "Komplexity",
+		"DIRECTORY" : "KGEx/Komplexity"
+	}
+}
