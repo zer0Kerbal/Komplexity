@@ -15,7 +15,7 @@ updated: 05 Apr 2022 -->
 
 # Komplexity (KPLX)
 
-Kerbal Space Center building levels increased to a maximum of ten levels instead of the stock game's four. For Kerbal Space Program.
+An Custom Barn Kit config addon that increased Kerbal Space Center building levels to a ten levels instead of the stock game's four. For Kerbal Space Program.
 
 ## Installation Instructions
 
