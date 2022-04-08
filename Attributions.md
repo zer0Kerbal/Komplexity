@@ -50,9 +50,10 @@ updated: 27 Mar 2022
 
 ### Art Asset(s)
 
-* [Complex-Theory-icon-517716258](https://www.deviantart.com/nzmacaddict/art/Complex-Theory-icon-517716258)
+* [Complex Theory icon](https://www.deviantart.com/nzmacaddict/art/Complex-Theory-icon-517716258)
   * By: [nzmacaddict](https://www.deviantart.com/nzmacaddict)
   * Creative Commons Attribution 3.0 License
+ <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20f3bfce-83b1-4e12-8af0-f3d3a31e20a0/d8k8gf6-82083869-14d4-4d33-9719-7908c11c73b8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIwZjNiZmNlLTgzYjEtNGUxMi04YWYwLWYzZDNhMzFlMjBhMFwvZDhrOGdmNi04MjA4Mzg2OS0xNGQ0LTRkMzMtOTcxOS03OTA4YzExYzczYjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wCT9rr9rf8WzMl-LmeJqKMDceRX56DmGixTqESEuQx4" alt="Complex Theory icon" style="zoom:5%;" />
 
 
 ### Testing and Support
