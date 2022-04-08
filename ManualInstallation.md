@@ -15,7 +15,7 @@ updated: 07 Apr 2022 -->
 
 # Komplexity (KPLX)
 
-An Custom Barn Kit config addon that increased Kerbal Space Center building levels to a ten levels instead of the stock game's four. For Kerbal Space Program.
+A Custom Barn Kit config addon that increased Kerbal Space Center building levels to a ten levels instead of the stock game's four. For Kerbal Space Program.
 
 ## Installation Instructions
 
@@ -49,19 +49,19 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 
 ```markdown
 <KSP_ROOT>
-  [GameData]
-    [KGEx]
-      [Komplexity]
-        [Configs]
-          * [Administration.cfg]
-          * [AstronautComplex.cfg]
-          * [Launchpad.cfg]
-          * [MissionControl.cfg]
-          * [ResearchandDevelopment.cfg]
-          * [Runway.cfg]
-          * [SpaceplaneHanger.cfg]
-          * [TrackingStation.cfg]
-          * [VehicleAssemblyBuilding.cfg]
+  + <GameData>
+    + <KGEx>
+      + <Komplexity>
+        + <Configs>
+          * Administration.cfg
+          * AstronautComplex.cfg
+          * Launchpad.cfg
+          * MissionControl.cfg
+          * ResearchandDevelopment.cfg
+          * Runway.cfg
+          * SpaceplaneHanger.cfg
+          * TrackingStation.cfg
+          * VehicleAssemblyBuilding.cfg
         #.#.#.#.htm
         changelog.md
         License.txt
