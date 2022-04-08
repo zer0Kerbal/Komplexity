@@ -19,7 +19,7 @@ updated: 04 Apr 2022 -->
 
 ## by [@zer0Kerbal][zer0kerbal]  
 
-A Custom Barn Kit config addon that increases Kerbal Space Center building levels to ten levels instead of the stock game's four. For Kerbal Space Program.
+A Custom Barn Kit config addon that increases Kerbal Space Center building levels to ten levels instead of the stock game's four. For Kerbal Space Program. Doesn't add more building models.
 
 
 
