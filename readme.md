@@ -19,7 +19,7 @@ updated: 04 Apr 2022 -->
 
 ## by [@zer0Kerbal][zer0kerbal]  
 
-Kerbal Space Center building levels increased to a maximum of ten levels instead of the stock game's four.
+An Custom Barn Kit config addon that increased Kerbal Space Center building levels to a ten levels instead of the stock game's four. For Kerbal Space Program.
 
 
 
@@ -110,7 +110,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 ### Credits and Special Thanks
 
-* [sarbian][sarbian] for creating and maintaining the Custom Barn Kit addon<!
+* [sarbian][sarbian] for creating and maintaining the Custom Barn Kit addon!
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
