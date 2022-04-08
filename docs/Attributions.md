@@ -42,12 +42,19 @@ updated: 27 Mar 2022
 
 ### Special Thanks
 
-
 <ul>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img border="0" alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
   <li>Squad, for making such a great game!</li>
   <li>Everyone else who made modding tutorials.</li>
 </ul>
+
+### Art Asset(s)
+
+* [Complex Theory icon](https://www.deviantart.com/nzmacaddict/art/Complex-Theory-icon-517716258)
+  * By: [nzmacaddict](https://www.deviantart.com/nzmacaddict)
+  * Creative Commons Attribution 3.0 License
+ <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20f3bfce-83b1-4e12-8af0-f3d3a31e20a0/d8k8gf6-82083869-14d4-4d33-9719-7908c11c73b8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIwZjNiZmNlLTgzYjEtNGUxMi04YWYwLWYzZDNhMzFlMjBhMFwvZDhrOGdmNi04MjA4Mzg2OS0xNGQ0LTRkMzMtOTcxOS03OTA4YzExYzczYjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wCT9rr9rf8WzMl-LmeJqKMDceRX56DmGixTqESEuQx4" alt="Complex Theory icon" style="zoom:5%;" />
+
 
 ### Testing and Support
 
