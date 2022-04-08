@@ -19,7 +19,7 @@ updated: 04 Apr 2022 -->
 
 ## by [@zer0Kerbal][zer0kerbal]  
 
-Kerbal Space Center building levels increased to a maximum of ten levels instead of the stock game's four.
+Kerbal Space Center building levels increased to a maximum of ten levels instead of the stock game's four. For Kerbal Space Program.
 
 
 
