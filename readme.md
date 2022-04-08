@@ -110,7 +110,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 ### Credits and Special Thanks
 
-* [sarbian][sarbian] for creating and maintaining the Custom Barn Kit addon<!
+* [sarbian][sarbian] for creating and maintaining the Custom Barn Kit addon!
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
