@@ -16,10 +16,41 @@ updated: 217 Jan 2022
 | spacedock  | (https://spacedock.info/mod/2805)                                |
 | ckan       | Komplexity                                                       |
 
-## Version - 1.0.0.0 - Ribbon Kutting
+## Version - 1.0.0.0-release - `<Ribbon Kutting>`
 
+* Release
 * 07 Apr 2022  
-* Release for Kerbal Space Program [KSP 1.12.x]  
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+## Changes
+
+### Updated
+
+* [Mission.cfg] is now on by default (smarter patching)
+* spelling and grammar linting
+
+### Add  
+
+* better graphics
+
+### wiki  
+
+* moved to pages
+
+### docs/
+
+* updated (in progress)
+
+### Status
+
+* Issues
+  * closes #29 - Update Wiki
+  * closes #30 - JNSQ
+  * closes #31 - Komplexity 1.0.0.0-release `<Ribbon Kutting>`
+  * closes #32 - 1.0.0.0 Verify Legal Mumbo Jumbo
+  * closes #33 - 1.0.0.0 Update Documentation
+  * closes #34 - 1.0.0.0 Update Social Media
+
 
 
 ## Version 0.9.9.9-prerelease - 2022-01-17 [KSP 1.12.2]
