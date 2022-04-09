@@ -15,7 +15,7 @@ updated: 27 Mar 2022
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
-# Komplexity (KPLX) (ABBV)
+# Komplexity (KPLX)
 [Home](./index.md)
 
 ## Attribution
