@@ -1,153 +1,49 @@
-<table width="826" data-cellspacing="0">
-<tbody>
-<tr class="odd" height="1">
-<td width="239"></td>
-<td width="43"></td>
-<td width="95"></td>
-<td width="152"></td>
-<td width="160"></td>
-<td width="137"></td>
-</tr>
-<tr class="even" height="43">
-<td style="text-align: left;" style="border-bottom: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:24.0pt;font-family:&quot;Amaranth&quot;;">Runway</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 2.0pt; border-right: solid  #A2A9B1 1.0pt; border-bottom: solid  Black 1.0pt; background: #FFFFFF" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">Level</span> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;;font-weight:bold;"> </span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 2.0pt; border-left: solid  #A2A9B1 1.0pt; border-right: solid  #A2A9B1 1.0pt; border-bottom: solid  Black 1.0pt; background: #FFFFFF" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">Upgrade Cost</span> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;;font-weight:bold;"> </span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 2.0pt; border-left: solid  #A2A9B1 1.0pt; border-right: solid  #A2A9B1 1.0pt; border-bottom: solid  Black 1.0pt; background: #FFFFFF" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">Max vessel length (m)</span> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;;font-weight:bold;"> </span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 2.0pt; border-left: solid  #A2A9B1 1.0pt; border-right: solid  #A2A9B1 1.0pt; border-bottom: solid  Black 1.0pt; background: #FFFFFF" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">Max width / height (m)</span> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;;font-weight:bold;"> </span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 2.0pt; border-left: solid  #A2A9B1 1.0pt; border-bottom: solid  Black 1.0pt; background: #FFFFFF" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">Max vessel mass (t)</span> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;;font-weight:bold;"> </span></strong></p></td>
-</tr>
-<tr class="odd" height="23">
-<td style="text-align: right;" style="border-left: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border-left: solid  Black 1.0pt; border-right: solid  Black 1.0pt; border-bottom: solid  Black 1.0pt" data-valign="bottom"><p><strong><span style="color:#222222;font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">start</span> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;;font-weight:bold;"> </span></strong></p></td>
-<td style="text-align: center;" style="border-left: solid  Black 1.0pt; border-bottom: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$19,000 </span></p></td>
-<td style="text-align: center;" style="border-left: solid  Black 1.0pt; border-right: solid  Black 1.0pt; border-bottom: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">9</span></p></td>
-<td style="text-align: center;" style="border-left: solid  Black 1.0pt; border-bottom: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">6</span></p></td>
-<td style="text-align: center;" style="border-left: solid  Black 1.0pt; border-right: solid  Black 2.0pt; border-bottom: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">9</span></p></td>
-</tr>
-<tr class="even" height="21">
-<td style="text-align: left;" style="border-left: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">2</span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$15,000 </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">15</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">18</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">18</span></p></td>
-</tr>
-<tr class="odd" height="21">
-<td style="text-align: left;" style="border-left: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><strong><span style="color:#222222;font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">3</span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$20,000 </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">20</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">30.4</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">36</span></p></td>
-</tr>
-<tr class="even" height="21">
-<td style="text-align: right;" style="border-left: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">4</span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$25,000 </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">30</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">39.6</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">72</span></p></td>
-</tr>
-<tr class="odd" height="21">
-<td style="text-align: left;" style="border-left: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">5</span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$30,000 </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">45</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">45</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">80</span></p></td>
-</tr>
-<tr class="even" height="21">
-<td style="text-align: left;" style="border-left: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><strong><span style="color:#222222;font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">6</span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$40,000 </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">75</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">50</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">100</span></p></td>
-</tr>
-<tr class="odd" height="21">
-<td style="text-align: right;" style="border-left: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">7</span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$50,000 </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">100</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">55</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">120</span></p></td>
-</tr>
-<tr class="even" height="21">
-<td style="text-align: left;" style="border-left: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">8</span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$65,000 </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">125</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">60</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">140</span></p></td>
-</tr>
-<tr class="odd" height="21">
-<td style="text-align: left;" style="border-left: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">9</span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$80,000 </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">150</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">65</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">160</span></p></td>
-</tr>
-<tr class="even" height="21">
-<td style="text-align: center;" style="border-left: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none; border-bottom: none" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">10</span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$100,000 </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-bottom: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">-1</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none; border-bottom: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">-1</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">-1</span></p></td>
-</tr>
-<tr class="odd" height="22">
-<td style="text-align: right;" style="border-left: solid  Black 2.0pt; border-bottom: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-left: none; border-right: none; border-bottom: none" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-left: none; border-right: none; border-bottom: none" data-valign="bottom"><p><em><span style="font-size:9.0pt;font-family:&quot;Amaranth&quot;;">$425,000 </span></em></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-left: none; border-right: none; border-bottom: none" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-left: none; border-right: none; border-bottom: none" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-left: none; border-right: solid  Black 2.0pt; border-bottom: none" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-</tr>
-<tr class="even" height="23">
-<td style="text-align: left;" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: left;" style="border: solid  Black 2.0pt; border-left: none; border-right: none; border-bottom: none" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 2.0pt; border-left: none; border-right: none; border-bottom: none" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: left;" style="border: solid  Black 2.0pt; border-left: none; border-right: none; border-bottom: none" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: left;" style="border: solid  Black 2.0pt; border-left: none; border-right: none; border-bottom: none" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: left;" style="border: solid  Black 2.0pt; border-left: none; border-right: none; border-bottom: none" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-</tr>
-<tr class="odd" height="27">
-<td style="text-align: left;" style="border-bottom: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:14.0pt;font-family:&quot;Amaranth&quot;;">vs. stock on normal difficulty</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 2.0pt; border-right: solid  #A2A9B1 1.0pt; border-bottom: solid  Black 1.0pt; background: #FFFFFF" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">Level</span> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;;font-weight:bold;"> </span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 2.0pt; border-left: solid  #A2A9B1 1.0pt; border-right: solid  #A2A9B1 1.0pt; border-bottom: solid  Black 1.0pt; background: #FFFFFF" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">Upgrade Cost</span> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;;font-weight:bold;"> </span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 2.0pt; border-left: solid  #A2A9B1 1.0pt; border-right: solid  #A2A9B1 1.0pt; border-bottom: solid  Black 1.0pt; background: #FFFFFF" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">Max vessel length (m)</span> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;;font-weight:bold;"> </span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 2.0pt; border-left: solid  #A2A9B1 1.0pt; border-right: solid  #A2A9B1 1.0pt; border-bottom: solid  Black 1.0pt; background: #FFFFFF" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">Max width / height (m)</span> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;;font-weight:bold;"> </span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 2.0pt; border-left: solid  #A2A9B1 1.0pt; border-bottom: solid  Black 1.0pt; background: #FFFFFF" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">Max vessel mass (t)</span> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;;font-weight:bold;"> </span></strong></p></td>
-</tr>
-<tr class="even" height="24">
-<td style="text-align: center;" rowspan="4" style="border-left: solid  Black 2.0pt; border-bottom: solid  Black 2.0pt" data-valign="bottom"><p><strong><span style="color:Red;font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">*total upgrade costs: $357,000*</span> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;;font-weight:bold;"> </span></strong></p></td>
-<td style="text-align: center;" style="border-left: solid  Black 1.0pt; border-right: solid  Black 1.0pt; border-bottom: solid  Black 1.0pt" data-valign="bottom"><p><strong><span style="color:#222222;font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">start</span> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;;font-weight:bold;"> </span></strong></p></td>
-<td style="text-align: center;" style="border-left: solid  Black 1.0pt; border-bottom: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$19,000 </span></p></td>
-<td style="text-align: center;" style="border-left: solid  Black 1.0pt; border-bottom: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">20</span></p></td>
-<td style="text-align: center;" style="border-left: solid  Black 1.0pt; border-bottom: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">15</span></p></td>
-<td style="text-align: center;" style="border-left: solid  Black 1.0pt; border-right: solid  Black 2.0pt; border-bottom: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">18</span></p></td>
-</tr>
-<tr class="odd" height="22">
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><strong><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">2</span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$75,000 </span></p></td>
-<td style="text-align: center;" style="border: solid  #A2A9B1 1.0pt; border-left: solid  Black 1.0pt; border-right: none; border-bottom: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">36</span></p></td>
-<td style="text-align: center;" style="border: solid  #A2A9B1 1.0pt; border-left: solid  Black 1.0pt; border-right: none; border-bottom: solid  Black 1.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">28</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">140</span></p></td>
-</tr>
-<tr class="even" height="22">
-<td style="text-align: center;" style="border: solid  Black 1.0pt" data-valign="bottom"><p><strong><span style="color:#222222;font-size:11.0pt;font-family:&quot;Amaranth&quot;;font-weight:bold;">3</span></strong></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$282,000 </span></p></td>
-<td style="text-align: center;" style="border: solid  #A2A9B1 1.0pt; border-left: solid  Black 1.0pt; border-right: none; border-bottom: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">-1</span></p></td>
-<td style="text-align: center;" style="border: solid  #A2A9B1 1.0pt; border-left: solid  Black 1.0pt; border-right: none; border-bottom: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">-1</span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-right: solid  Black 2.0pt; border-bottom: none" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">-1</span></p></td>
-</tr>
-<tr class="odd" height="23">
-<td style="text-align: left;" style="border-bottom: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-left: none; border-right: none; border-bottom: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:11.0pt;font-family:&quot;Amaranth&quot;;">$357,000 </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-left: none; border-right: none; border-bottom: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-left: none; border-right: none; border-bottom: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-<td style="text-align: center;" style="border: solid  Black 1.0pt; border-left: none; border-right: solid  Black 2.0pt; border-bottom: solid  Black 2.0pt" data-valign="bottom"><p><span style="font-size:12.0pt;font-family:&quot;Liberation Serif&quot;;"> </span></p></td>
-</tr>
-</tbody>
-</table>
+---
+permalink: /Buildings/Runway.html
+title: The Runway
+description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
+# layout: bare
+tags: runway,building,ksc,page,kerbal,ksp,zer0Kerbal,zedK
+---
+<!-- Runway.md v 1.1.0.0
+Komplexity (KPLX)
+created: 05 Nov 2019
+updated: 14 Apr 2022
+this file: CC BY-SA 4.0 by zer0Kerbal
+ -->
+
+# [Runway](https://wiki.kerbalspaceprogram.com/wiki/Runway)
+
+| ![Runway](https://wiki.kerbalspaceprogram.com/images/thumb/c/c3/RunwayTier1.png/90px-RunwayTier1.png) | ![Runway](https://wiki.kerbalspaceprogram.com/images/thumb/2/24/RunwayTier2.png/120px-RunwayTier2.png) | ![Runway](https://wiki.kerbalspaceprogram.com/images/thumb/6/60/Runway.jpg/120px-Runway.jpg) |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| Level: 1 - 2 - 3                                                                                      | Level: 4 - 5 - 6                                                                                       | Level: 7 - 8 - 9 - 10                                                                        |
+
+| **Level** | **Upgrade Cost** | **Max<br/>length** | **Max<br/>width/height** | **Max Mass** |
+| :-------: | :--------------: | :----------------: | :----------------------: | :----------: |
+| **start** |     $19,000      |         9m         |            6m            |      9       |
+|   **2**   |     $15,000      |        18m         |          12m  ¹          |      18      |
+|   **3**   |     $20,000      |        36m         |           24m            |      36      |
+|   **4**   |     $25,000      |        72m         |           48m            |      72      |
+|   **5**   |     $30,000      |        100m        |           72m            |      80      |
+|   **6**   |     $40,000      |        120m        |           96m            |     100      |
+|   **7**   |     $50,000      |        130m        |           100m           |     120      |
+|   **8**   |     $65,000      |        140m        |           125m           |     140      |
+|   **9**   |     $80,000      |        172m        |           150m           |     160      |
+|  **10**   | <u>$100,000</u>  |    *unlimited*     |       *unlimited*        | *unlimited*  |
+|           |    *$425,000*    |                    |                          |              |
+
+---
+
+## Stock on normal difficulty
+|             |                  |                    |                          |              |
+| :---------: | :--------------: | :----------------: | :----------------------: | :----------: |
+|  **Level**  | **Upgrade Cost** | **Max<br/>length** | **Max<br/>width/height** | **Max Mass** |
+|  **start**  |     $19,000      |        20m         |           15m            |      18      |
+|      2      |     $75,000      |        36m         |           28m            |     140      |
+|      3      | <u>$282,000</u>  |    *unlimited*     |       *unlimited*        | *unlimited*  |
+| total cost: |     $357,000     |                    |                          |              |
+
+<details>
+  <summary> Image Version</summary>
+  <p> <a href="img/runway.png" target="_blank"><img src="img/runway.png" alt="img/runway.png"/></a></p>
+</details>
