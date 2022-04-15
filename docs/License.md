@@ -10,6 +10,13 @@ created: 01 Feb 2022
 updated: 07 Mar 2022
 -->
 
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+
+# Komplexity (KPLX)
+
+[Home](./index.html)
+
 ![CC](https://creativecommons.org/images/deed/svg/cc_white.svg)![Attribution](https://creativecommons.org/images/deed/svg/attribution_icon_white.svg)![Share Alike](https://creativecommons.org/images/deed/svg/sa_white.svg)
 
 ## Attribution-ShareAlike 4.0 International
