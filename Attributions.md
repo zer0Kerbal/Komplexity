@@ -3,20 +3,20 @@ permalink: /Attributions.html
 title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 # layout: bare
-tags: thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
+tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-Attributions.md v1.0.4.0
+Attributions.md v1.0.5.0
 Komplexity (KPLX) (ABBV)
 created: 01 Feb 2022
 updated: 27 Mar 2022
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+<i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 # Komplexity (KPLX)
-[Home](./index.md)
+[Home](./index.html)
 
 ## Attribution
 
@@ -71,4 +71,4 @@ updated: 27 Mar 2022
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
+<!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
