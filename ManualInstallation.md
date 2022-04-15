@@ -6,16 +6,16 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.3.0
+<!-- ManualInstallation.md v1.1.5.0
 Komplexity (KPLX)
 created: 01 Oct 2019
-updated: 07 Apr 2022 -->
+updated: 11 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
 # Komplexity (KPLX)
 
-A Custom Barn Kit config addon that increased Kerbal Space Center building levels to a ten levels instead of the stock game's four. For Kerbal Space Program.
+A Custom Barn Kit config addon that increases Kerbal Space Center building levels to ten levels instead of the stock game's four. For Kerbal Space Program.
 
 ## Installation Instructions
 
@@ -40,7 +40,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
   * Delete `<KSP_ROOT>/GameData/KGEx/Komplexity`
-* Extract the package's `GameData/` folder into your KSP's folder as follows:
+* Extract the package's `GameData/` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData/` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
   * you should end up with `<KSP_ROOT>/GameData/KGEx/Komplexity`
@@ -69,6 +69,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
         Komplexity.version
       ...
     ...
+    * ModuleManager.dll
   KSP.log
   ...
 ```
