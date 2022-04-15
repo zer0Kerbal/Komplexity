@@ -3,8 +3,14 @@ permalink: /Buildings/Administration.html
 title: Administration Building
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 # layout: bare
-tags: administration,page,kerbal,ksp,zer0Kerbal,zedK
+tags: administration,building,ksc,page,kerbal,ksp,zer0Kerbal,zedK
 ---
+<!-- Administration.md v 1.1.0.0
+Komplexity (KPLX)
+created: 05 Nov 2019
+updated: 01 Apr 2022
+this file: CC BY-SA 4.0 by zer0Kerbal
+ -->
 # [Administration Building](https://wiki.kerbalspaceprogram.com/wiki/Administration_Building)
 
 | ![Administration Building](https://wiki.kerbalspaceprogram.com/images/thumb/6/61/AdministrationBuildingTier1.png/90px-AdministrationBuildingTier1.png) | ![Administration Building](https://wiki.kerbalspaceprogram.com/images/thumb/a/a9/AdministrationBuildingTier2.png/90px-AdministrationBuildingTier2.png) | ![Administration Building](https://wiki.kerbalspaceprogram.com/images/thumb/4/45/Administration_Facility.jpg/190px-Administration_Facility.jpg) |
@@ -25,7 +31,8 @@ tags: administration,page,kerbal,ksp,zer0Kerbal,zedK
 |  **10**   | <u>$190,000</u>  |              8              |             100%             |
 |           |    *$725,000*    |                             |                              |
 
-------
+---
+
 ## Stock on normal difficulty
 |             |                  |                             |                              |
 | :---------: | :--------------: | :-------------------------: | :--------------------------: |
