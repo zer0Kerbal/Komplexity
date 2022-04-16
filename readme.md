@@ -157,7 +157,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/json/ckan.json "CKAN"
 
 <!--- release links -->
-[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/Komplexity"Curseforge"
+[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/Komplexity "Curseforge"
 [CURSFG:shd]: https://img.shields.io/badge/CurseForge-Listed-white.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
 
 [GITHUB:url]: https://github.com/zer0Kerbal/Komplexity/ "GitHub"

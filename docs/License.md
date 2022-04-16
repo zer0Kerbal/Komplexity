@@ -1,6 +1,9 @@
 ---
 permalink: /License.html
 title: License: CC BY-SA 4.0
+description: when the revolution comes, part deux.... Legal Mumbo Jumbo (Douglas Adams)
+# layout: bare
+tags: license,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
@@ -11,11 +14,11 @@ updated: 07 Mar 2022
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+<i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
 # Komplexity (KPLX)
 
-[Home](./index.html)
+[Home](./index)
 
 ![CC](https://creativecommons.org/images/deed/svg/cc_white.svg)![Attribution](https://creativecommons.org/images/deed/svg/attribution_icon_white.svg)![Share Alike](https://creativecommons.org/images/deed/svg/sa_white.svg)
 

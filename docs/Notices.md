@@ -16,7 +16,7 @@ based upon work by LisiasT -->
 
 # Komplexity (KPLX)
 
-[Home](./index.html)
+[Home](./index)
 
 ## Trademarks
 
