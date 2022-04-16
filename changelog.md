@@ -51,6 +51,8 @@ updated: 217 Jan 2022
   * closes #33 - 1.0.0.0 Update Documentation
   * closes #34 - 1.0.0.0 Update Social Media
 
+---
+
 ## Version 0.9.9.9-prerelease - 2022-01-17 [KSP 1.12.2]
 
 * 15 Jan 2022  
