@@ -40,5 +40,5 @@ this file: CC BY-SA 4.0 by zer0Kerbal
 
 <details>
   <summary> Image Version</summary>
-  <p> <a href="img/runway.png" target="_blank"><img src="img/runway.png" alt="img/runway.png"/></a></p>
+  <p> <a href="https://github.com/zer0Kerbal/Komplexity/blob/master/img/Runway.png" target="_blank"><img src="https://github.com/zer0Kerbal/Komplexity/blob/master/img/Runway.png" alt="Runway"/></a></p>
 </details>
