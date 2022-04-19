@@ -27,7 +27,7 @@ A Custom Barn Kit config addon that increases Kerbal Space Center building level
 >
 > The stock game's four levels (initial + three upgrades) just seemed too basic, and very unKerbalistic. So I sat down with Bill and added some Komplexity and moar levels!
 >
-> ***Yes***, now there are a total of ten levels (initial plus nine upgrades) for every building in the KSC. This add-on depends on [Module Manager][mm] and [Custom Barn Kit][cbk] by [@Sarbian][sarbian]. Might not play nice with [Bureaucracy][bczy].
+> ***Yes***, now there are a total of ten levels (initial plus nine upgrades) for every building in the KSC. This addon depends on [Module Manager][mm] and [Custom Barn Kit][cbk] by [@Sarbian][sarbian]. Might not play nice with [Bureaucracy][bczy].
 
 ### Promo Video
 
@@ -47,7 +47,7 @@ A Custom Barn Kit config addon that increases Kerbal Space Center building level
 ### Help Wanted
 
 > * A final polish and proofreading pass on the wiki would be very helpful.
-> * Setting up this add-on to use [Patch Manager][pmx]
+> * Setting up this addon to use [Patch Manager][pmx]
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
 ---
@@ -125,7 +125,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 > ***All bundled mods are distributed under their own licenses*** *(if any)*  
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
-<!-- add-on links -->
+<!-- addon links -->
 [MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/Attribution.md "Attribution"
 [MOD:chlog]: https://github.com/zer0Kerbal/Komplexity/changelog.md "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/Komplexity/blob/master/.github/CONTRIBUTING.md "Contributing"
@@ -138,7 +138,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [MOD:pages]: https://zer0kerbal.github.io/Komplexity/ "GitHub Pages"
 [MOD:wiki]: https://zer0kerbal.github.io/Komplexity/  "Wiki"
 
-<!--- add-on -->
+<!--- addon -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/json/mod.json
 
 [MOD:pages:shd]: https://github.com/zer0Kerbal/Komplexity/actions/workflows/pages/pages-build-deployment/badge.svg "GitHub IO"
