@@ -7,9 +7,7 @@ updated: 04 Apr 2022 -->
 
 [![Komplexity (KPLX)][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
-![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
-
-[![GitHub Pages][MOD:pages:shd]][MOD:pages]
+![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd] [![GitHub Pages][MOD:pages:shd]][MOD:pages]
 
 
 
