@@ -5,10 +5,10 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 # layout: bare
 tags: administration,building,ksc,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Administration.md v 1.1.0.0
+<!-- Administration.md v1.1.1.0
 Komplexity (KPLX)
 created: 05 Nov 2019
-updated: 01 Apr 2022
+updated: 15 Apr 2022
 this file: CC BY-SA 4.0 by zer0Kerbal
  -->
 # [Administration Building](https://wiki.kerbalspaceprogram.com/wiki/Administration_Building)
