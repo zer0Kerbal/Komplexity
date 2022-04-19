@@ -16,13 +16,71 @@ updated: 217 Jan 2022
 | spacedock  | (https://spacedock.info/mod/2805)                                |
 | ckan       | Komplexity                                                       |
 
+## Version 1.0.1.0-release `<Sideways Frontways>` edition
+
+* 18 Apr 2022
+* Released for Kerbal Space Program [KSP 1.12.x]
+
+### Updated
+
+* [Runway.cfg] v1.0.8.0
+  * swap the length, width for the height restrictions for the runway
+    * this because unlike the launchpad, planes are short, squat and very height challenged.
+    * hardest part is to figure out which variable goes to which.
+    * thank you to [MystLeissa](https://github.com/MystLeissa) for this suggestion
+  * complete refactoring of length (x), height (y), and length (z) maximum allowable sizes
+    * add label: // wingspan (width), height, length
+    * consult [Runway](https://zer0kerbal.github.io/Komplexity/Buildings/Runway) for details
+  * closes #39 - [Request/Balancing]: Change the Level 1 SPH Length Restriction to 9.0m, and the Height to 6.0m
+* [Launchpad.cfg] v1.0.7.0
+  * complete refactoring of length (x), height (y), and length (z) maximum allowable sizes
+    * consult [Runway](https://zer0kerbal.github.io/Komplexity/Buildings/Runway) for details
+  * closes #39 - [Request/Balancing]: Change the Level 1 SPH Length Restriction to 9.0m, and the Height to 6.0m
+    * add label: // width, height, length
+    * consult [Launchpad](https://zer0kerbal.github.io/Komplexity/Buildings/Launchpad) for details
+  * closes #44 - Label and Swap the launchpad array
+* [Komplexity.version]
+  * since Komplexity will run on any version of Kerbal Space program
+  * remove
+    * KSP_VERSION_MIN
+
+### Add  
+
+* Flags!
+  * contributed by zer0Kerbal
+  * closes #37 - Add Flag
+
+#### docs/
+
+* updated (in progress)
+* add [Notices.md]
+* docs/Buildings/
+  * Updates
+    * Full
+      * [Administration.cfg] v1.1.0.0
+    * Minor
+      * [AstronautComplex.cfg] v1.0.6.1
+      * [MissionControl.cfg] v1.0.5.1
+      * [ResearchandDevelopment.cfg] v1.0.6.1
+      * [SpaceplaneHanger.cfg] v1.0.6.1
+      * [TrackingStation.cfg] v1.0.6.1
+      * [VehicleAssemblyBuilding.cfg] v1.0.6.1
+
+### Status
+
+* Issues
+  * closes #43 - 1.0.1.0 Social Media
+  * closes #42 - 1.0.1.0 Update Documentation
+  * closes #41 - 1.0.1.0 Verify Legal Mumbo Jumbo
+  * closes #40 - Komplexity 1.0.1.0-release `<Sideways Frontways>
+
+---
+
 ## Version - 1.0.0.0-release - `<Ribbon Kutting>`
 
 * Release
 * 07 Apr 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
-
-## Changes
 
 ### Updated
 
@@ -50,6 +108,8 @@ updated: 217 Jan 2022
   * closes #32 - 1.0.0.0 Verify Legal Mumbo Jumbo
   * closes #33 - 1.0.0.0 Update Documentation
   * closes #34 - 1.0.0.0 Update Social Media
+
+---
 
 ## Version 0.9.9.9-prerelease - 2022-01-17 [KSP 1.12.2]
 
