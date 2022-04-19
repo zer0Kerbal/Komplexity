@@ -1,12 +1,12 @@
-<!-- readme.md v1.6.6.2
+<!-- readme.md v1.6.6.4
 Komplexity (KPLX)
 created: 01 Oct 2019
-updated: 04 Apr 2022 -->
+updated: 15 Apr 2022 -->
 
 <!--this file: CC BY-ND 4.0 unported by zer0Kerbal-->
 
 [![Komplexity (KPLX)][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]  
 ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd] [![GitHub Pages][MOD:pages:shd]][MOD:pages]
 
 
