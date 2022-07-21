@@ -2,32 +2,36 @@
 permalink: /Notices.html
 title: Legal Notices
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
-# layout: bare
 tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-Notices.md v1.0.0.0
+Notices.md v1.0.1.0
 Komplexity (KPLX)
 created: 13 Apr 2022
-updated: 
+updated: 15 May 2022
 
 based upon work by LisiasT -->
 
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
+
 # Komplexity (KPLX)
 
-[Home](./index)
+[Home](./index.md)
 
 ## Trademarks
 
 * "Komplexity" is trademark of zer0Kerbal
+* "KPLX" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
+* KerbSimpleCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal
 
-## Kerbal Simple Co (KerbSimCo)
+## Kerbal Simple Co (KerbSimCo) (KerbSimpleCo)
 
-* "Kerbal Simple Co (KerbSimCo)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
+* "Kerbal Simple Co (KerbSimCo) (KerbSimpleCo)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
 ## Kerbal Space Program
 
@@ -39,4 +43,4 @@ Other trademarks and registered trademarks are the property of the respective tr
 
 © 2011-2022 zer0Kerbal™
 
-<!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
+<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
