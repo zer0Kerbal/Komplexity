@@ -1,4 +1,4 @@
-# Changelog  
+﻿# Changelog  
 
 <!-- Changelog.cfg v1.1.3.0
 Komplexity (KPLX)
@@ -6,15 +6,15 @@ created: 19 Apr 18
 updated: 217 Jan 2022
 -->
 
-| modName    | Komplexity (KPLX)                                                |
-| ---------- | ---------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                     |
-| author     | zer0Kerbal                                                       |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/202749-*) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/Komplexity)            |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Komplexity)          |
-| spacedock  | (https://spacedock.info/mod/2805)                                |
-| ckan       | Komplexity                                                       |
+| modName    | Komplexity (KPLX)                                                 |
+| ---------- | ----------------------------------------------------------------- |
+| license    | CC-BY-SA-4.0                                                      |
+| author     | zer0Kerbal                                                        |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/202749-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/Komplexity)             |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Komplexity)           |
+| spacedock  | (https://spacedock.info/mod/2805)                                 |
+| ckan       | Komplexity                                                        |
 
 ## Version 1.0.1.0-release `<Sideways Frontways>` edition
 
@@ -32,16 +32,13 @@ updated: 217 Jan 2022
     * add label: // wingspan (width), height, length
     * consult [Runway](https://zer0kerbal.github.io/Komplexity/Buildings/Runway) for details
   * closes #39 - [Request/Balancing]: Change the Level 1 SPH Length Restriction to 9.0m, and the Height to 6.0m
-  
 * [Launchpad.cfg] v1.0.7.0
   * complete refactoring of length (x), height (y), and length (z) maximum allowable sizes
     * consult [Runway](https://zer0kerbal.github.io/Komplexity/Buildings/Runway) for details
-    
+  * closes #39 - [Request/Balancing]: Change the Level 1 SPH Length Restriction to 9.0m, and the Height to 6.0m
     * add label: // width, height, length
     * consult [Launchpad](https://zer0kerbal.github.io/Komplexity/Buildings/Launchpad) for details
-    
   * closes #44 - Label and Swap the launchpad array
-  
 * [Komplexity.version]
   * since Komplexity will run on any version of Kerbal Space program
   * remove
@@ -114,7 +111,13 @@ updated: 217 Jan 2022
 
 ---
 
-## Version 0.9.9.9-prerelease - 2022-01-17 [KSP 1.12.2]
+## Version 0.9.9.9.1-prerelease - `<EDITION>`
+
+* Pre-Release
+
+---
+
+## Version 0.9.9.9-prerelease - `<Strategic Floating`>
 
 * 15 Jan 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]  
@@ -161,7 +164,7 @@ updated: 217 Jan 2022
 
 ---
 
-## Version - 0.9.3.0 -The Final Countdown
+## Version - 0.9.3.0-prerelease - `<The Final Countdown>`
 
 ### Strategia, Bureaucracy
 
@@ -180,7 +183,7 @@ updated: 217 Jan 2022
 
 ---
 
-## Version - 0.9.2.0 - Breaking up is easy
+## Version - 0.9.2.0-prerelease `<Breaking up is easy>`
 
 * 28 May 2021
 * for KSP 1.12.2
@@ -199,9 +202,12 @@ updated: 217 Jan 2022
 
 ---
 
-## Version - 0.9.1.0 - Komplex Complex - for KSP 1.12.3 [28-May-2021]
+## Version - 0.9.1.0-beta - `<Komplex Complex>`
 
 * Beta Release 15 May 2021
+
+* 28 May 2021
+* Released for KSP 1.12.3
 
 ### accounting computer error(s)
 
@@ -223,8 +229,9 @@ updated: 217 Jan 2022
 
 ---
 
-## Version 0.9.0.0 - Granular Komplexity - for KSP 1.12.3 [11-May-2021]
+## Version 0.9.0.0-beta - `<Granular Komplexity>` - for KSP 1.12.3 [11-May-2021]
 
+* Beta Release
 * 11 May 2021
 * for KSP 1.12.2
 
@@ -257,7 +264,7 @@ updated: 217 Jan 2022
 
 ---
 
-## Version 0.8.0.0 - Brushing off the Construction Dust
+## Version 0.8.0.0-alpha - `<Brushing off the Construction Dust>`
 
 ### organize for introduction
 
