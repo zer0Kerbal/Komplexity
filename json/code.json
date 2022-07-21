@@ -2,7 +2,7 @@
  "schemaVersion": 1,
  "label": "Code",
  "labelColor": "66ccff",
- "message": "˂˂CustomBarnKit˃˃ ˂˂Module Manager˃˃",
+ "message": "'<CustomBarnKit'>' '<'Module Manager'>'",
  "color": "darkblue",
  "style": "plastic"
 }
