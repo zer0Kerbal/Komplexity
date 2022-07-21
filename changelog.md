@@ -1,4 +1,4 @@
-﻿# Changelog  
+# Changelog  
 
 <!-- Changelog.cfg v1.1.3.0
 Komplexity (KPLX)
@@ -32,13 +32,16 @@ updated: 217 Jan 2022
     * add label: // wingspan (width), height, length
     * consult [Runway](https://zer0kerbal.github.io/Komplexity/Buildings/Runway) for details
   * closes #39 - [Request/Balancing]: Change the Level 1 SPH Length Restriction to 9.0m, and the Height to 6.0m
+  
 * [Launchpad.cfg] v1.0.7.0
   * complete refactoring of length (x), height (y), and length (z) maximum allowable sizes
     * consult [Runway](https://zer0kerbal.github.io/Komplexity/Buildings/Runway) for details
-  * closes #39 - [Request/Balancing]: Change the Level 1 SPH Length Restriction to 9.0m, and the Height to 6.0m
+    
     * add label: // width, height, length
     * consult [Launchpad](https://zer0kerbal.github.io/Komplexity/Buildings/Launchpad) for details
+    
   * closes #44 - Label and Swap the launchpad array
+  
 * [Komplexity.version]
   * since Komplexity will run on any version of Kerbal Space program
   * remove
