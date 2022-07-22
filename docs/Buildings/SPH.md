@@ -1,4 +1,24 @@
-# Spaceplane Hanger (SPH)
+---
+permalink: /Buildings/SPH.html
+title: Space Plane Hanger
+description: Space Plane Hanger blueprints for Komplexity, the flat-pack Kiea instructions, written in Kerbalese, unusally present
+tags: sph,blueprints,building,ksc,page,kerbal,ksp,zer0Kerbal,zedK
+---
+<!-- SPH.md v2.1.0.0
+Komplexity (KPLX)
+created: 05 Nov 2019
+updated: 22 Jul 2022
+this file: CC-BY-SA 4.0 by zer0Kerbal -->
+
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
+
+# Komplexity (KPLX)
+
+[Home](./index.md)
+
+## Spaceplane Hanger (SPH)
+
 ![Spaceplane Hanger (SPH)](https://wiki.kerbalspaceprogram.com/images/thumb/f/fe/SPH.jpg/300px-SPH.jpg)  
 
 | **Level** | **Upgrade Cost** | **Active <br />strategies** | **Maximum <br />Commitment** |
