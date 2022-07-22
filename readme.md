@@ -82,6 +82,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 ### Supports  
 
 * [jnsq][jnsq]
+* [JX2 Antenna (JX2)][jx2]
 * [Outer Planets Mod (OPM)][opm]
 * [Real Solar System (RSS)][rss]
 * [Realism Overhaul (RO)][ro]
@@ -184,12 +185,12 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [cbkro]: https://forum.kerbalspaceprogram.com/index.php?/topic/109027-*/ "Custom Barn Kit - RO build"
 [cbkseti]: https://forum.kerbalspaceprogram.com/index.php?/topic/95645-*/ "SETI CBK"
 [jnsq]: https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*/ "JNSQ"
+[jx2]: http://forum.kerbalspaceprogram.com/index.php?/topic/153125-*/ "JX2Antenna (JX2)"
 [opm]: https://forum.kerbalspaceprogram.com/index.php?/topic/184789-*/ "Outer Planets Mod (OPM)"
 [pmx]: https://forum.kerbalspaceprogram.com/index.php?/topic/163072-*/ "Patch Manager"
 [ro]: http://forum.kerbalspaceprogram.com/index.php?/topic/155700-*/ "Realism Overhaul (RO)"
 [rss]: https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*/ "Real Solar System (RSS)"
 [stra]: https://forum.kerbalspaceprogram.com/index.php?/topic/131808-*/ "Strategia"
-
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-C9H8O4-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
