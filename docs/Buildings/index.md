@@ -14,7 +14,6 @@
 - [Runway](Runway.md)
 - [SPH](SPH.md)
 - [SpacePlaneHanger-SPH](SpacePlaneHanger-SPH.md)
-- [Tracking (2)](Tracking%20(2).md)
-- [Tracking](Tracking.md)
+- [TrackingStation](TrackingStation.md)
 - [VAB](VAB.md)
 - [VesselAssemblyBuilding-VAB](VesselAssemblyBuilding-VAB.md)

@@ -4,7 +4,6 @@ title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
 Attributions.md v1.0.7.1
 Komplexity (KPLX) (ABBV)
