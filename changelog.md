@@ -16,6 +16,51 @@ updated: 217 Jan 2022
 | spacedock  | (https://spacedock.info/mod/2805)                                 |
 | ckan       | Komplexity                                                        |
 
+## Version 1.0.2.0-release `<Ictiv>` edition
+
+* 18 Apr 2022
+* Released for Kerbal Space Program [KSP 1.12.x]
+
+### Summary 1.0.2.0
+
+* Add
+  * thank you to [Ictiv](https://forum.kerbalspaceprogram.com/index.php?/profile/90790-*/)
+  * [RealSolarSystem.cfg] v1.0.0.0
+  * [OuterPlanetsMod.cfg] v1.0.0.0
+  * [JX2Antenna.cfg] v1.0.0.0
+* Patching order
+  * [JX2Antenna.cfg]
+    * :LAST[JX2Antenna]
+  * [OuterPlanetsMod.cfg]
+    * :LAST[OPM]
+  * [RealSolarSystem.cfg]
+    * :LAST[RealSolarSystem]
+  * closes #48 - [Bug 🐞]: JX2Antenna+OPM Incompatibility
+  * closes #49 - [Request]: OPM compatibility
+  * closes #50 - [Request]: Realism Overhaul compatibility
+
+### docs/
+
+* Update
+  * [TrackingStation.md] v2.1.0.0
+  * [SPH.md] v2.1.0.0
+  * [Administration.md] v1.1.2.0
+
+### img/
+
+* Update
+  * [TrackingStation.png] v1.3.0.0
+
+### Status 1.0.2.0
+
+* Issues
+  * closes #51 - Komplexity (KPLX) 1.0.2.0-release `<Ictiv>`
+  * closes #52 - 1.0.2.0 Verify Legal Mumbo Jumbo
+  * closes #53 - 1.0.2.0 Update Documentation
+  * closes #54 - 1.0.2.0 Update Social Media
+
+---
+
 ## Version 1.0.1.0-release `<Sideways Frontways>` edition
 
 * 18 Apr 2022
