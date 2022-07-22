@@ -6,15 +6,60 @@ created: 19 Apr 18
 updated: 217 Jan 2022
 -->
 
-| modName    | Komplexity (KPLX)                                                |
-| ---------- | ---------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                     |
-| author     | zer0Kerbal                                                       |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/202749-*) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/Komplexity)            |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Komplexity)          |
-| spacedock  | (https://spacedock.info/mod/2805)                                |
-| ckan       | Komplexity                                                       |
+| modName    | Komplexity (KPLX)                                                 |
+| ---------- | ----------------------------------------------------------------- |
+| license    | CC-BY-SA-4.0                                                      |
+| author     | zer0Kerbal                                                        |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/202749-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/Komplexity)             |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Komplexity)           |
+| spacedock  | (https://spacedock.info/mod/2805)                                 |
+| ckan       | Komplexity                                                        |
+
+## Version 1.0.2.0-release `<Ictiv>` edition
+
+* 18 Apr 2022
+* Released for Kerbal Space Program [KSP 1.12.x]
+
+### Summary 1.0.2.0
+
+* Add
+  * thank you to [Ictiv](https://forum.kerbalspaceprogram.com/index.php?/profile/90790-*/)
+  * [RealSolarSystem.cfg] v1.0.0.0
+  * [OuterPlanetsMod.cfg] v1.0.0.0
+  * [JX2Antenna.cfg] v1.0.0.0
+* Patching order
+  * [JX2Antenna.cfg]
+    * :LAST[JX2Antenna]
+  * [OuterPlanetsMod.cfg]
+    * :LAST[OPM]
+  * [RealSolarSystem.cfg]
+    * :LAST[RealSolarSystem]
+  * closes #48 - [Bug 🐞]: JX2Antenna+OPM Incompatibility
+  * closes #49 - [Request]: OPM compatibility
+  * closes #50 - [Request]: Realism Overhaul compatibility
+
+### docs/
+
+* Update
+  * [TrackingStation.md] v2.1.0.0
+  * [SPH.md] v2.1.0.0
+  * [Administration.md] v1.1.2.0
+
+### img/
+
+* Update
+  * [TrackingStation.png] v1.3.0.0
+
+### Status 1.0.2.0
+
+* Issues
+  * closes #51 - Komplexity (KPLX) 1.0.2.0-release `<Ictiv>`
+  * closes #52 - 1.0.2.0 Verify Legal Mumbo Jumbo
+  * closes #53 - 1.0.2.0 Update Documentation
+  * closes #54 - 1.0.2.0 Update Social Media
+
+---
 
 ## Version 1.0.1.0-release `<Sideways Frontways>` edition
 
@@ -111,7 +156,13 @@ updated: 217 Jan 2022
 
 ---
 
-## Version 0.9.9.9-prerelease - 2022-01-17 [KSP 1.12.2]
+## Version 0.9.9.9.1-prerelease - `<EDITION>`
+
+* Pre-Release
+
+---
+
+## Version 0.9.9.9-prerelease - `<Strategic Floating`>
 
 * 15 Jan 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]  
@@ -158,7 +209,7 @@ updated: 217 Jan 2022
 
 ---
 
-## Version - 0.9.3.0 -The Final Countdown
+## Version - 0.9.3.0-prerelease - `<The Final Countdown>`
 
 ### Strategia, Bureaucracy
 
@@ -177,7 +228,7 @@ updated: 217 Jan 2022
 
 ---
 
-## Version - 0.9.2.0 - Breaking up is easy
+## Version - 0.9.2.0-prerelease `<Breaking up is easy>`
 
 * 28 May 2021
 * for KSP 1.12.2
@@ -196,9 +247,12 @@ updated: 217 Jan 2022
 
 ---
 
-## Version - 0.9.1.0 - Komplex Complex - for KSP 1.12.3 [28-May-2021]
+## Version - 0.9.1.0-beta - `<Komplex Complex>`
 
 * Beta Release 15 May 2021
+
+* 28 May 2021
+* Released for KSP 1.12.3
 
 ### accounting computer error(s)
 
@@ -220,8 +274,9 @@ updated: 217 Jan 2022
 
 ---
 
-## Version 0.9.0.0 - Granular Komplexity - for KSP 1.12.3 [11-May-2021]
+## Version 0.9.0.0-beta - `<Granular Komplexity>` - for KSP 1.12.3 [11-May-2021]
 
+* Beta Release
 * 11 May 2021
 * for KSP 1.12.2
 
@@ -254,7 +309,7 @@ updated: 217 Jan 2022
 
 ---
 
-## Version 0.8.0.0 - Brushing off the Construction Dust
+## Version 0.8.0.0-alpha - `<Brushing off the Construction Dust>`
 
 ### organize for introduction
 
