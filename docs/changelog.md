@@ -28,6 +28,36 @@ updated: 217 Jan 2022
 | spacedock  | (https://spacedock.info/mod/2805)                                 |
 | ckan       | Komplexity                                                        |
 
+## Version 1.0.3.0-release - <infinite monkey> edition
+
+* 18 Apr 2022
+* Released for Kerbal Space Program [KSP 1.12.x]
+
+### Summary 1.0.3.0
+
+* Strategia Compatibility
+  * thank you to [infinite_monkey (forum)](https://forum.kerbalspaceprogram.com/index.php?/profile/185663-*/) aka [chrbkr (GitHub)](https://github.com/chrbkr)
+
+###  Strategia Compatibility
+
+* thank you to [infinite_monkey (forum)](https://forum.kerbalspaceprogram.com/index.php?/profile/185663-*/) aka [chrbkr (GitHub)](https://github.com/chrbkr)
+  * Update
+    * [Administration.cfg] v1.0.8.0
+      * remove ,!Strategia from the :NEEDS clause
+  * Add
+    * [Strategia.cfg] v1.0.0.0
+* closes #57 - [Bug 🐞]: Administration building compatibility issue with Strategia
+
+### Status 1.0.3.0
+
+* Issues
+  * closes #58 - Komplexity (KPLX) 1.0.3.0-release `<infinite monkey>` edition
+  * closes #59 - 1.0.3.0 Verify Legal Mumbo Jumbo
+  * closes #60 - 1.0.3.0 Update Documentation
+  * closes #61 - 1.0.3.0 Update Social Media
+
+---
+
 ## Version 1.0.2.0-release `<Ictiv>` edition
 
 * 18 Apr 2022
