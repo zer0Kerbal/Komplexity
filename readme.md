@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.9.2
-Komplexity (KPLX) 
+<!-- readme.md v1.6.9.4
+Komplexity (KPLX)
 created: 17 Jul 2017
-updated: 05 Jul 2022 -->
+updated: 10 Aug 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
@@ -47,6 +47,7 @@ A Custom Barn Kit config addon that increases Kerbal Space Center buildings to t
 
 ### Help Wanted
 
+> * balance suggestions and comments
 > * Compatibility patches
 > * A final polish and proofreading pass on the [Buildings wiki pages](https://zer0kerbal.github.io/Komplexity/Buildings/) would be very helpful.
 > * Setting up this addon to use [Patch Manager][pmx]
@@ -134,12 +135,12 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
 <!-- mod links -->
-[MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/Attribution.md "Attribution"
-[MOD:chlog]: https://github.com/zer0Kerbal/Komplexity/changelog.md "Changelog"
-[MOD:contr]: https://github.com/zer0Kerbal/Komplexity/blob/master/.github/CONTRIBUTING.md "Contributing"
+[MOD:attr]: https://zer0kerbal.github.io/Komplexity/Attributions "Attribution"
+[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/changelog.md  "Changelog"
+[MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/Komplexity/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/202749-*/ "Komplexity Forum Thread"
-[MOD:issue]: https://github.com/zer0Kerbal/Komplexity/wiki/Known-Issues "GitHub Issues"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "Komplexity Forum Thread"
+[MOD:issue]: https://github.com/zer0Kerbal/Komplexity/issues "Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/Komplexity/blob/master/LICENSE "Github License"
 [MOD:markt]: https://zer0kerbal.github.io/Komplexity/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/Komplexity/Notices "Notices"
@@ -152,8 +153,8 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- license -->
-[LIC:url]: https://creativecommons.org/licenses/by-nd/4.0/ "CC BY-ND 4.0"
-[LIC:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 4.0"
+[LIC:url]: https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0"
+[LIC:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 4.0"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/json/license.json "Creative Commons"
 
 <!--- CKAN -->
