@@ -34,6 +34,8 @@ updated: 217 Jan 2022
       * remove ,!Strategia from the :NEEDS clause
   * Add
     * [Strategia.cfg] v1.0.0.0
+  * patch 1
+  * patch 2
 * closes #57 - [Bug 🐞]: Administration building compatibility issue with Strategia
 
 ### Status 1.0.3.0
