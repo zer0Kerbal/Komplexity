@@ -1,11 +1,5 @@
 ﻿# Changelog  
 
-<!-- Changelog.cfg v1.1.3.0
-Komplexity (KPLX)
-created: 19 Apr 18
-updated: 217 Jan 2022
--->
-
 | modName    | Komplexity (KPLX)                                                 |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
@@ -15,6 +9,41 @@ updated: 217 Jan 2022
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Komplexity)           |
 | spacedock  | (https://spacedock.info/mod/2805)                                 |
 | ckan       | Komplexity                                                        |
+
+## Version 1.0.3.0-release - <infinite monkey> edition
+
+* 21 Aug 2022
+* Released for Kerbal Space Program [KSP 1.12.x]
+
+### Summary 1.0.3.0
+
+* Strategia Compatibility
+  * Allow [Administration.cfg] to work when Strategia is installed.
+  * thank you to [infinite_monkey (forum)](https://forum.kerbalspaceprogram.com/index.php?/profile/185663-*/) aka [chrbkr (GitHub)](https://github.com/chrbkr)
+  * please note: there is a known bug in Strategia [bug](https://github.com/jrossignol/Strategia/issues/66)  that affects display of max strategies only.
+    * this bug affects DISPLAY only, not the actual mechanics.
+
+### Strategia Compatibility
+
+* thank you to [infinite_monkey (forum)](https://forum.kerbalspaceprogram.com/index.php?/profile/185663-*/) aka [chrbkr (GitHub)](https://github.com/chrbkr)
+  * Update
+    * [Administration.cfg] v1.0.8.1
+      * remove ,!Strategia from the :NEEDS clause
+  * Add
+    * [Strategia.cfg] v1.0.0.1
+  * patch 1
+  * patch 2
+* closes #57 - [Bug 🐞]: Administration building compatibility issue with Strategia
+
+### Status 1.0.3.0
+
+* Issues
+  * closes #58 - Komplexity (KPLX) 1.0.3.0-release `<infinite monkey>` edition
+  * closes #59 - 1.0.3.0 Verify Legal Mumbo Jumbo
+  * closes #60 - 1.0.3.0 Update Documentation
+  * closes #61 - 1.0.3.0 Update Social Media
+
+---
 
 ## Version 1.0.2.0-release `<Ictiv>` edition
 
