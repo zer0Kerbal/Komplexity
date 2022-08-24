@@ -139,7 +139,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/Komplexity/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "Komplexity Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/202749-*/ "Komplexity Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/Komplexity/issues "Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/Komplexity/blob/master/LICENSE "Github License"
 [MOD:markt]: https://zer0kerbal.github.io/Komplexity/Marketing "Marketing Slicks"
