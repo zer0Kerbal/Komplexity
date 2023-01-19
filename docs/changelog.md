@@ -275,7 +275,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * for KSP 1.12.2
 
 * Pre-Release 30 May 2021
-* Split patches into seperate files
+* Split patches into separate files
 * turn TrackingStation.cfg.O off by default
 * include directions on how to enable TrackingStation.cfg.0
 * slight edits to documentation
